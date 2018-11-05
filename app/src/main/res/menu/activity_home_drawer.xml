@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_text_fields_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_blogPosts"
+            android:icon="@drawable/ic_text_fields_black_24dp"
+            android:title="Blog Posts" />
+        <item
+            android:id="@+id/nav_setlists"
+            android:icon="@drawable/ic_text_fields_black_24dp"
+            android:title="Set Lists" />
+        <item
+            android:id="@+id/nav_globalchat"
+            android:icon="@drawable/ic_text_fields_black_24dp"
+            android:title="Global Chat" />
+
+    </group>
+
+
+</menu>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="key_Username">key_username</string>
+    <string name="key_Email">key_email</string>
+    <string name="key_Password">key_password</string>
+    <string name="key_BlogPostSingle">key_BlogPostSingle</string>
+    <string name="key_BlogPostTitle">key_BlogPostTitle</string>
+    <string name="key_BlogPostDate">key_BlogPostDate</string>
+    <string name="key_BlogPostContent">key_BlogPostContent</string>
+    <string name="key_BlogPostUrl">key_BlogPostUrl</string>
+    <string name="key_SetlistLongDate">key_SetlistLongDate</string>
+    <string name="key_SetlistLocation">key_SetlistLocation</string>
+    <string name="key_SetlistVenue">key_SetlistVenue</string>
+    <string name="key_SetlistData">key_SetlistData</string>
+    <string name="key_SetlistNotes">key_SetlistNotes</string>
+    <string name="key_SetlistUrl">key_SetlistUrl</string>
+
+    <string name="key_prefs_email">prefs_email</string>
+    <string name="key_prefs_password">prefs_password</string>
+    <string name="key_intent_notifification_msg">was app started from message notification?</string>
+
+</resources>

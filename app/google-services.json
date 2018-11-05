@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "554764657496",
+    "firebase_url": "https://lab5-fcm-sam2b.firebaseio.com",
+    "project_id": "lab5-fcm-sam2b",
+    "storage_bucket": "lab5-fcm-sam2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554764657496:android:06cb74104bf70ff2",
+        "android_client_info": {
+          "package_name": "tcss450.uw.edu.phishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554764657496-37efm9vqfm9itnlju6o7vkm6nclfo199.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBTIzn6hVlAhX_mC23-3EikdG0BY0Og98"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

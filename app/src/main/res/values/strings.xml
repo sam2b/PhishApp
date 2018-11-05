@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PhishApp</string>
+    <string name="welcome_line1">Welcome!</string>
+    <string name="welcome_line2">Please log in or register.</string>
+    <string name="text_firstname">First name</string>
+    <string name="text_lastname">Last name</string>
+    <string name="text_username">Username</string>
+    <string name="text_email">Email</string>
+    <string name="text_password">Password</string>
+    <string name="text_passwordConfirm">Password Confirm</string>
+    <string name="text_register">REGISTER</string>
+    <string name="text_login">LOGIN</string>
+    <string name="welcome_line3">Please register for an account.</string>
+    <string name="successful_login">Login successful!</string>
+    <string name="logout">Logout</string>
+
+    <string name="value_screen_login">1</string>
+    <string name="value_screen_registration">2</string>
+    <string name="value_screen_display">3</string>
+    <string name="value_screen_error">4</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_drawer_home_title">Phish App</string>
+    <string name="title_drawer_home_subtitle">TCSS 450 Labs</string>
+
+    <string name="action_logout">Logout</string>
+
+    <string name="write_message">Write a message</string>
+</resources>
